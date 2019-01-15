@@ -5,7 +5,7 @@
  * @author    Maksim T. <zapalm@yandex.com>
  * @copyright 2018 Maksim T.
  * @license   https://opensource.org/licenses/MIT MIT
- * @link      https://github.com/zapalm/prestashopPasswordRecoveryTool GitHub
+ * @link      https://github.com/zapalm/prestashop-password-recovery-tool GitHub.
  * @link      https://prestashop.modulez.ru/en/tools-scripts/54-prestashop-password-recovery-tool.html Homepage.
  *
  * @version 1.0.0
