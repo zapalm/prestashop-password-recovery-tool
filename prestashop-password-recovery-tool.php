@@ -22,7 +22,7 @@ if (false === file_exists($configPath)) {
     $passwordHash = Tools::encrypt($password);
     $firstName    = 'Admin';
     $lastName     = 'Admin';
-    $idLanguage   = Configuration::get('PS_LANG_DEFAULT');
+    $idLanguage   = (int)Configuration::get('PS_LANG_DEFAULT');
     $isSubmit     = Tools::isSubmit('recover');
     $isSuccess    = false;
     $fatalError   = false;
