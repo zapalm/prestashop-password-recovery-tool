@@ -1,6 +1,6 @@
 <?php
 /**
- * Employee password recovery tool for PrestaShop CMS.
+ * Employee password recovery tool for PrestaShop and ThirtyBees.
  *
  * @author    Maksim T. <zapalm@yandex.com>
  * @copyright 2018 Maksim T.
