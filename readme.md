@@ -1,20 +1,13 @@
-# Employee password recovery tool for PrestaShop CMS
-Easy to use tool for employee password recovery. 
-[The tool homepage][5].
+# Employee password recovery tool for PrestaShop and ThirtyBees
+**Easy to use tool for employee password recovery.**
 
-## Requirements
-An access to a site folder, for example, FTP access or web access to an admin panel with file manager.
-
-## How to use
-* Copy `prestashop-password-recovery-tool.php` file to the root of your PrestaShop installation directory.
-* Run the tool by URL: `http://<your site domain>/prestashop-password-recovery-tool.php`. For example, `http://example.com/prestashop-password-recovery-tool.php`.
-* Submit the password recovery form.
-* **After recovery, do not forget to delete the tool.**
+**The tool home page and the support page: [prestashop.modulez.ru][5].**
+The full description, how to use and the stable release for download are available there.
 
 ## How to help the project grow and get updates
 * **Become the [patron][2]** to help me work more for supporting and improving this project.
 * Report an issue.
-* Give me feedback or [contact with me][3].
+* Give me feedback or contact with me.
 * Give the star to the project.
 * Contribute to the code.
 
@@ -46,6 +39,5 @@ Contributors wishing to edit the project's files should follow the following pro
 
 [1]: https://www.php-fig.org/psr/
 [2]: https://www.patreon.com/zapalm
-[3]: https://prestashop.modulez.ru/en/contact-us
 [4]: https://help.github.com/articles/about-pull-requests/
 [5]: https://prestashop.modulez.ru/en/tools-scripts/54-prestashop-password-recovery-tool.html
