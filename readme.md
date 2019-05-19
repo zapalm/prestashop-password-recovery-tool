@@ -5,9 +5,9 @@
 The full description, how to use and the stable release for download are available there.
 
 ## How to help the project grow and get updates
-* **Become the [patron][2]** to help me work more for supporting and improving this project.
+* **Become the [patron][2]** or support me by **[Flattr][3]** to help me work more for supporting and improving this project.
 * Report an issue.
-* Give me feedback or contact with me.
+* Give me feedback.
 * Give the star to the project.
 * Contribute to the code.
 
@@ -39,5 +39,6 @@ Contributors wishing to edit the project's files should follow the following pro
 
 [1]: https://www.php-fig.org/psr/
 [2]: https://www.patreon.com/zapalm
+[3]: https://flattr.com/@zapalm
 [4]: https://help.github.com/articles/about-pull-requests/
 [5]: https://prestashop.modulez.ru/en/tools-scripts/54-prestashop-password-recovery-tool.html
