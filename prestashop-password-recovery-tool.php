@@ -8,7 +8,7 @@
  * @link      https://github.com/zapalm/prestashop-password-recovery-tool GitHub.
  * @link      https://prestashop.modulez.ru/en/tools-scripts/54-prestashop-password-recovery-tool.html Homepage.
  *
- * @version 1.0.0
+ * @version 1.1.0
  */
 
 $configPath = dirname(__FILE__) . '/config/config.inc.php';
@@ -195,6 +195,14 @@ if (false === file_exists($configPath)) {
         <p>
             By this tool you can recover your existent employee account or create a new.
             <strong>After recovery, do not forget to delete the tool.</strong>
+            <a
+                href="https://caniuse.com/#feat=css-placeholder-shown"
+                title="Because of using the placeholder-shown CSS pseudo-class."
+                target="_blank"
+                rel="nofollow noopener"
+                >
+                <strong>This form works only in latest Chrome, Safari, and Firefox!</strong>
+            </a>
         </p>
     </div>
 
